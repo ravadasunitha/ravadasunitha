@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sunitha 👋
 
-<!--
-**ravadasunitha/ravadasunitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student passionate about
+web development, DSA, and building real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- DSA
+- Git & GitHub
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- C
+- C++
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+## 📌 Projects
+
+- Placement Portal
+- MERN E-Commerce Website
+- Job Portal
+- Resume Analyzer
+- Doctor Appointment Booking
+
+## 🎯 Goals
+
+- Become a strong full-stack developer
+- Improve problem-solving skills
+- Build real-world projects
+- Contribute to open-source projects
